@@ -11,7 +11,6 @@
 
 </head>
 <body>
-
     <header class="navbar navbar-expand-lg navbar-dark bg-secondary">
         <nav class="container-fluid">
           <a class="navbar-brand" href="#">Jim Nguyen</a>
@@ -27,55 +26,36 @@
                 <a class="nav-link" href="index.html">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="portfolio.html">My Projects</a>
+                <a class="nav-link" href="portfolio.html">My Portfolio</a>
               </li>
             </ul>
           </div>
         </nav>
     </header>
 
+    <main class="container">
+        <div class="row">
+            
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Name:</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="First Last">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">E-mail:</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Message:</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+            </div>
 
-   <div class="accordion" id="accordionExample">
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="headingOne">
-        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Office Address
-        </button>
-      </h2>
-      <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-          <address>123 Main Street <br>
-                    Saint Paul, MN 55107 <br>
-          </address>
         </div>
-      </div>
-    </div>
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="headingTwo">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Phone
-        </button>
-      </h2>
-      <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-          <strong>Office Phone:</strong> 651-123-4567 <br>
-          <strong>Google Voice:</strong> 651-252-4113 <br>
-          <strong>Cell Phone:</strong> 612-123-4567 <br>
-        </div>
-      </div>
-    </div>
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="headingThree">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          E-Mail
-        </button>
-      </h2>
-      <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-          <strong>E-Mail:</strong> jimnguyen220@gmail.com 
-        </div>
-      </div>
-    </div>
-  </div>
+
+    </main>
+   
+  
 </body>
 </html>
