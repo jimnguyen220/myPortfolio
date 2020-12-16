@@ -1,0 +1,29 @@
+
+body {
+
+}
+
+.secondRow {
+    padding-top: 20px;
+}
+
+
+ 
+/* bootstrap breakpoint - anything larger will not follow rule*/
+@media screen and (max-width: 992px) {
+ 
+  
+}
+
+/* bootstrap breakpoint - anything larger will not follow rule*/
+@media screen and (max-width: 768px) {
+    .description {
+        padding-top: 20px;
+    }
+}
+
+/* bootstrap breakpoint - anything larger will not follow rule*/
+@media screen and (max-width: 480px) {
+
+}
+
