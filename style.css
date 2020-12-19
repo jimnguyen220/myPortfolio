@@ -5,16 +5,31 @@
     padding-top: 20px;
 }
 
-
+h2 {
+    font-size: medium;
+    font-weight: bold;
+}
  
+/*class created to customize cards*/
+.customCard {
+    width: 18rem;
+}
+
+
+
 /* bootstrap breakpoint - anything larger will not follow rule*/
 @media screen and (max-width: 992px) {
 
     .description {
         padding-left: 55px;
     }
+
+    .customCard {
+        width: 15rem;
+    }
     
 }
+
 
 /* bootstrap breakpoint - anything larger will not follow rule*/
 @media screen and (max-width: 768px) {
@@ -22,6 +37,10 @@
     .description {
         padding-top: 20px;
         padding-left: 15px;
+    }
+
+    .customCard {
+        width: 18rem;
     }
 
 }

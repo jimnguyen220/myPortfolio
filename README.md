@@ -20,11 +20,14 @@ Resources - https://getbootstrap.com/
 
 
 ### index.html
-    For now, I'm just using a placeholder for my bio and Lorem ipsum for the text.
+    Includes photo and a little bit about me.
 
 ### contact.html
     This page contains a form where you are able to send me a message.  The 'submit' button is not functional at this time
 
 ### portfolio.html
-    This page is labeled 'My Projects' for this assignment.  I am displaying each of my assignments with cards to provide a short description of the project.  The buttons link to the github repository.  The pictures of each project are linked  to the 'assets' folder.  The first screenshot is of the README file for my 1st assignment.  The second is a screenshot of my webpage so far.
+    This page is labeled 'My Projects' for this assignment.  I am displaying each of my assignments with cards to provide a short description of the project.  The buttons link to the github repository.  The pictures of each project are linked  to the 'assets' folder.  The first screenshot is of the README file for my 1st assignment.  The second is a screenshot of my webpage so far. 
+    I also added a custom class within the cards because I did not like the sizing of the them when it broke at 992px. I changed it to 15rem at 992px and had it change back to 18rem when the screen size changed to 768px.
 
+### style.css
+    This is a custom style sheet that I included to further customize box models for my different pages
