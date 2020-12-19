@@ -6,7 +6,11 @@ Link to live internet Home Page - https://jimnguyen220.github.io/responsivePortf
 
 Link to repository - https://github.com/jimnguyen220/responsivePortfolio
 
-Resources - https://getbootstrap.com/
+Resources - https://getbootstrap.com/   
+
+            https://validator.w3.org/ 
+
+
 
 
 ## Objectives
@@ -17,6 +21,7 @@ Resources - https://getbootstrap.com/
 
 * Each page will include a navbar with links to the 2 other pages, have a responsive layout and responsive images
 * Use Semantic HTML
+* Verify code with an HTML Validation checker to ensure each page has valid HTML
 
 
 ### index.html
