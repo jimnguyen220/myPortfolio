@@ -35,3 +35,5 @@ Resources - https://getbootstrap.com/
 
 ### style.css
     This is a custom style sheet that I included to further customize box models for my different pages
+
+*note - github repository will also include portfolio3.html but is not going to be included in this project. Leaving it for reference with earlier pushes to github as that was earlier referred to as the portfolio.html page.
