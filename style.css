@@ -8,6 +8,9 @@ h2 {
     font-weight: bold;
 }
 
+.contactContent {
+    padding-bottom: 20px;
+}
 
 
 /* bootstrap breakpoint - anything larger will not follow rule*/
