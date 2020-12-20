@@ -1,6 +1,5 @@
 body {
     background-image: url(assets/marble.jpg);
-    
 }
 
 
@@ -14,22 +13,12 @@ h2 {
 /* bootstrap breakpoint - anything larger will not follow rule*/
 @media screen and (max-width: 992px) {
 
-    .description {
-        padding-left: 55px;
-    }
-
     
 }
 
 
 /* bootstrap breakpoint - anything larger will not follow rule*/
 @media screen and (max-width: 768px) {
-    /*add padding to text on index.html*/
-    .description {
-        padding-top: 20px;
-        padding-left: 15px;
-    }
-
 
 }
 
