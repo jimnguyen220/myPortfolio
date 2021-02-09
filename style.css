@@ -12,6 +12,10 @@ h2 {
     padding-bottom: 20px;
 }
 
+.card {
+    background-color: lightgray;
+    border-style: black;
+}
 
 /* bootstrap breakpoint - anything larger will not follow rule*/
 @media screen and (max-width: 992px) {
