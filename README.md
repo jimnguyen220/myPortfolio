@@ -1,28 +1,22 @@
-# responsivePortfolio
+# myPortfolio
 
-For this project, I am going to use Bootstrap CSS Framework to create a portfolio. 
+This is my Portfolio page where you get to learn a little bit about me, a few projects and a few links  to my professional history.
 
-Link to live internet Home Page - https://jimnguyen220.github.io/responsivePortfolio/
-
-Link to repository - https://github.com/jimnguyen220/responsivePortfolio
-
-Resources - https://getbootstrap.com/   
-
-            https://validator.w3.org/ 
-
-
+The top of each page has a navbar that will link you to each page contained in this project.
 
 
 ## Objectives
-* Create the following 3 pages
-    * index.html
-    * contact.html
-    * portfolio.html
+* Submit an updated portfolio featuring first group project and two independant homework assignments
+
+* Submit an updated Github profile with pinned repositories
+
+* Submit an updated resume
+
+* Submit an updated LinkedIn profile.
+
+-------------------------------------------
 
 * Each page will include a navbar with links to the 2 other pages, have a responsive layout and responsive images
-* Use Semantic HTML
-* Verify code with an HTML Validation checker to ensure each page has valid HTML
-
 
 ### index.html
     Includes photo and a little bit about me.
@@ -32,8 +26,11 @@ Resources - https://getbootstrap.com/
 
 ### portfolio.html
     This page has responsive images. Alt text has been added to describe each picture. 
+-------------------------------
+Link to live internet Home Page - https://jimnguyen220.github.io/myPortfolio/
 
-### style.css
-    This is a custom style sheet that I included to further customize box models for my different pages
+Link to repository - https://github.com/jimnguyen220/myPortfolio
 
-*note - github repository will also include portfolio3.html but is not going to be included in this project. Leaving it for reference with earlier pushes to github as that was earlier referred to as the portfolio.html page.
+-------------------------------
+
+
