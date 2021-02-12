@@ -21,11 +21,11 @@ The top of each page has a navbar that will link you to each page contained in t
 ### index.html
     Includes photo and a little bit about me.
 
-### contact.html
-    This page contains a form where you are able to send me a message.  The 'submit' button is not functional at this time
+<!-- ### contact.html
+    This page contains a form where you are able to send me a message.  The 'submit' button is not functional at this time -->
 
 ### portfolio.html
-    This page has responsive images. Alt text has been added to describe each picture. 
+    This page displays a couple of my projects completed so far in the coding bootcamp.
 -------------------------------
 Link to live internet Home Page - https://jimnguyen220.github.io/myPortfolio/
 
